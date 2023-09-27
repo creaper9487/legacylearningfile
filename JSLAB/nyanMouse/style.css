@@ -1,0 +1,21 @@
+div{
+    width: 45%;
+    height: 200px;
+    background-color: cyan;
+    cursor: url(src/nyan-cat-nyan.2.gif),none;
+}
+h1{
+    width : 50%;
+    height : 100px;
+    border: 1px solid blueviolet;
+}
+h2{
+    width : 50%;
+    height : 100px;
+    border: 1px solid blueviolet;
+
+}
+p{
+    height: 30px;
+    font-size: large;
+}

@@ -1,0 +1,1 @@
+alert('Bad eval(), don\' t use it');

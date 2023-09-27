@@ -1,0 +1,12 @@
+*{
+  background-color: darkcyan;
+  color: pink ;
+}
+body{
+  text-align: center;
+}
+
+h2{
+  height: 32px;
+  font-size: medium;
+}

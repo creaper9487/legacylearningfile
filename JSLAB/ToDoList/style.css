@@ -1,0 +1,11 @@
+meter,progress{
+    width: 80%;
+}
+.finished{
+    color: #ddd;
+    text-decoration:line-through;
+}
+button{
+    
+    padding: 1%;
+}
