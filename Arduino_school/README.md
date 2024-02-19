@@ -10,12 +10,12 @@
 
 ### Github 內容： <br>
 
-[原始碼](./final/)  
+[原始碼](https://github.com/creaper9487/legacylearningfile/blob/main/Arduino_school/final)  
 
 ### 課程照片
 
-![電路設計練習](./boardexample.png)
-![報告程式碼範例](./code.png)
+![電路設計練習](https://github.com/creaper9487/legacylearningfile/raw/main/Arduino_school/boardexample.png)
+![報告程式碼範例](https://github.com/creaper9487/legacylearningfile/raw/main/Arduino_school/code.png)
 
 ## 學習心得與未來展望
 
@@ -29,7 +29,7 @@
 
 #### 倒車輔助與 delay() 函式
 
-在程式 [`reverse(car).ino`](./final/reverse(car).ino) 內，老師的範例本來使用了以下方式處理倒車期間*beep*聲的停頓：
+在程式 [`reverse(car).ino`](https://github.com/creaper9487/legacylearningfile/blob/main/Arduino_school/final/reverse(car).ino) 內，老師的範例本來使用了以下方式處理倒車期間*beep*聲的停頓：
 
 ```C++
 void beep(int a){
